@@ -8,18 +8,18 @@ This is a simple console-based cricket game written in C++. The game allows the 
 
 3.Input a number between 1 and 6 for each ball faced.
 
-4.If your input matches the computer-generated number, a wicket falls; otherwise, the entered number contributes to your run total.
+4.If your input matches the computer-generated number, a wicket falls; otherwise, the entered number contributes to your total run.
 
 5.The game ends when you score enough runs to meet or exceed the target, or when you lose all three wickets.
 
 # Features
-.Randomized bowling simulation.
+...Randomized bowling simulation.
 
-.Dynamic target score generation.
+...Dynamic target score generation.
 
-.Player-friendly instructions.
+...Player-friendly instructions.
 
-.Option to play multiple rounds.
+...Option to play multiple rounds.
 
 # How to Run
 Compile the code using a C++ compiler and run the executable. 
