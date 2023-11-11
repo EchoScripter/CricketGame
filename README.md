@@ -24,5 +24,10 @@ This is a simple console-based cricket game written in C++. The game allows the 
 # How to Run
 Compile the code using a C++ compiler and run the executable. 
 
-here is a demo on-screen gameplay to play the game.![WhatsApp Image 2023-11-11 at 20 56 11_9ffac75a (1)](https://github.com/EchoScripter/CricketGame/assets/150517886/6b079413-b75a-4859-9cc6-102e9b8f0729)
+here is a demo on-screen gameplay to play the game.
+
+
+
+![WhatsApp Image 2023-11-11 at 20 56 11_9ffac75a (1)](https://github.com/EchoScripter/CricketGame/assets/150517886/6b079413-b75a-4859-9cc6-102e9b8f0729)
+
 
