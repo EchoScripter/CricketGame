@@ -70,7 +70,7 @@ int main()
             }
             else
             {
-                cout<<"Have a good day mate!";
+                cout<<"The moon is beautiful isn't it?";
                 break;
             }
     }
