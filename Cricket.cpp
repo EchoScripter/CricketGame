@@ -5,10 +5,11 @@
 using namespace std;
 
 
-void gamelogic(string s,int t)
+void gamelogic(string s)
 {
+
+    int target=40 + (rand()%20)+1;
     string name=s;
-    int target=t;
     cout<<s<<" Your Target is "<<target<<endl;
 
   
@@ -50,14 +51,14 @@ void gamelogic(string s,int t)
 int main()
 {
     srand((unsigned int) time(0));
-    int target=40 + (rand()%20)+1;
+   
 
     string name;
 
     cout<<"Player name: ";
     getline(cin,name);
 
-    gamelogic(name,target);
+    gamelogic(name);
 
     while(true)
     {
@@ -66,7 +67,7 @@ int main()
            
             if(k==1)
             {
-                gamelogic(name,target);
+                gamelogic(name);
             }
             else
             {
